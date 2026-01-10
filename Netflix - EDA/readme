@@ -1,0 +1,29 @@
+This Power BI report provides an exploratory data analysis (EDA) of Netflix content.
+Dataset: Netflix titles metadata from Kaggle 
+Data is ingested and transformed using Power Query.
+The following transformations were applied to clean and standardize the data:
+•	Promoted first row as headers
+•	Enforced correct data types
+•	Extracted text before delimiters to normalize categorical values
+•	Reordered columns for readability
+•	Replaced inconsistent or missing values
+•	Added conditional columns for classification logic
+•	Converted text fields to lowercase to avoid duplicate categories
+•	Renamed columns for clarity
+•	Removed unnecessary columns
+•	Filtered rows to keep relevant records only
+These steps ensure consistent categorization, clean dimensions, and accurate aggregations.
+Data Model
+The model follows a simple star-style design:
+Fact table: data
+•	Contains show-level attributes and metrics
+Dimension table: category mapping
+•	Maps show_id to individual listed_in (genre) values
+•	Enables proper many-to-one genre analysis
+ Report Visuals & Insights
+•	KPI Cards: Total shows, genres, regions
+•	Line Chart: Content growth by release year (shows rapid growth after 2015)
+•	Pie Chart: Distribution of movies by country (US dominates, followed by India and UK)
+•	Genre Slicer: Allows multi-genre filtering
+•	Year Slider: Enables time-based analysis
+•	Type Slicer: Movie vs TV Show comparison
