@@ -1,0 +1,14 @@
+This report provides a quick view of sales performance across time, regions, customer segments, and product categories.
+The report was generated quickly using the Power BI shortcut Ctrl + /, which allows creating visuals by typing column names and chart types instead of manual drag-and-drop.
+Key Insights
+	Total Sales: 2.30M
+	Total Profit: 286.40K
+	Consumer segment contributes the highest sales
+	West and East regions are top-performing
+	Phones and Chairs are the highest-selling sub-categories
+	Sales show an overall upward trend from 2018 to 2021
+Report Features
+	Sales trend by Year and Month
+	Sales by Segment, Region, and Sub-Category
+	KPI cards for Sales, Profit, Quantity, and Discount
+	State-level filtering for interactive analysis
