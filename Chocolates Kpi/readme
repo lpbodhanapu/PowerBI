@@ -1,0 +1,22 @@
+Sales Performance Dashboard – Power BI  (Data is imported From Chandoo.org)
+
+•	This project demonstrates a Sales Performance Dashboard built using Power BI.
+•	Data was connected and cleaned using Power Query.
+•	Monthly target data was reshaped using the unpivot feature.
+•	Multiple tables such as Actuals, Targets, Calendar, and People were used.
+•	Relationships were created to form a proper data model.
+•	The data model supports filtering by date, team, and salesperson.
+•	DAX was used to calculate total sales and target values.
+•	Variance and variance percentage measures were created using DAX.
+•	Year-to-date (YTD) calculations were implemented using time intelligence.
+•	The FILTER and CALCULATE functions were used in DAX measures.
+•	Emoji indicators were added using DAX for better visual understanding.
+•	KPI cards were created using the new Power BI card visual.
+•	Bar charts were used to compare actual sales against targets.
+•	Tables include sparklines to show sales trends.
+•	Custom data labels were applied to improve readability.
+•	Report themes were used for a consistent look and feel.
+•	Tables were formatted for executive-level reporting.
+•	Slicers were added for interactive filtering.
+•	The Smart Narrative feature was used to explain insights automatically.
+•	The final dashboard provides clear and easy-to-understand sales insights.
