@@ -1,15 +1,15 @@
-Built an interactive Power BI Sales Dashboard using real-world data (data from chandoo.org)
-Cleaned and transformed data using Power Query
-Removed nulls, duplicates, and fixed data types
-Created calculated columns for Profit, Profit %, Year, and Month
-Designed a Star Schema data model
-Connected fact and dimension tables with proper relationships
-Created a custom Calendar (Date) table
-Used DAX to create key business measures
-Applied evaluation context (row & filter context)
-Used VAR to optimize and reuse DAX measures
-Created Year-on-Year (YoY) comparisons
-Built KPI Cards, Line, Donut, Pie, and Treemap visuals
-Used Top-N filters and slicers for interactivity
-Applied conditional formatting and custom tooltips
-Tested visuals, filters, and DAX measures for accuracy
+1.	Built an interactive Power BI Sales Dashboard using real-world data (data from chandoo.org)
+2.	Cleaned and transformed data using Power Query
+3.	Removed nulls, duplicates, and fixed data types
+4.	Created calculated columns for Profit, Profit %, Year, and Month
+5.	Designed a Star Schema data model
+6.	Connected fact and dimension tables with proper relationships
+7.	Created a custom Calendar (Date) table
+8.	Used DAX to create key business measures
+9.	Applied evaluation context (row & filter context)
+10.	Used VAR to optimize and reuse DAX measures
+11.	Created Year-on-Year (YoY) comparisons
+12.	Built KPI Cards, Line, Donut, Pie, and Treemap visuals
+13.	Used Top-N filters and slicers for interactivity
+14.	Applied conditional formatting and custom tooltips
+15.	Tested visuals, filters, and DAX measures for accuracy
