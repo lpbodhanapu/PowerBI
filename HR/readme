@@ -1,0 +1,11 @@
+The data is taken from chandoo.org . This report consists of:
+
+- Loading and cleaning HR data using Power Query
+- Creating HR KPIs such as headcount, average salary, and average leave balance
+- Adding calculated columns (employee first name, age group, etc.)
+- Analyzing the relationship between salary and education qualification
+- Identifying top and bottom paid employees by job role
+- Applying filters and slicers for employee-level analysis
+- Creating advanced DAX measures such as cumulative headcount and leave balance above 20 days
+- Designing an interactive monthly HR dashboard
+- Using the new Card visual in Power BI
