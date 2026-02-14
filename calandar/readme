@@ -1,1 +1,15 @@
-
+•	Built an interactive Employee Attendance Dashboard in Power B
+•	Designed a custom calendar view using the Matrix visua
+•	Enhanced the calendar layout using SVG and DAX
+•	Created dynamic employee summary cards with profile image
+•	Loaded and transformed data using Power Query
+•	Created a dedicated Measures table for better data modeling
+•	DAX measures for attendance calculations
+•	Calculated Attendance %, Total Attendance, and Working Day
+•	Added month selection (January–April) for filtering
+•	Included attendance status indicators (Present, Sick, Vacation, On Call)
+•	Designed a custom dashboard background
+•	Resolved SVG image loading issues using Power Query
+•	Implemented a dynamic dashboard title
+•	Applied clean formatting and professional layout design
+•	Delivered a modern and interactive HR analytics dashboard
