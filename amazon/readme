@@ -1,0 +1,15 @@
+•	This project analyzes the Prime Video titles dataset from Kaggle.
+•	The dataset contains information about movies and TV shows available on Amazon Prime Video.
+•	It includes attributes such as show ID, title, director, country, rating, genre, and release year.
+•	The dataset contains around 8.4K titles in total.
+•	Content comes from 83 different countries worldwide.
+•	There are 23 different rating categories in the dataset.
+•	The dataset includes around 495 genres or categories.
+•	A dashboard was created using Power BI to visualize the data.
+•	The dashboard shows the distribution of Movies vs TV Shows.
+•	Movies make up the majority of the content on Prime Video.
+•	A world map visualization shows content distribution by country.
+•	A trend chart displays how content production increased over time.
+•	Genres like Drama, Comedy, and Action appear most frequently.
+•	Rating categories such as 13+, 16+, and 18+ are most common.
+•	This dashboard helps understand trends and insights in the Prime Video content library.
